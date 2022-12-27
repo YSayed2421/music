@@ -301,6 +301,9 @@ footer a p {
   #player #player-col-1 img {
     width: 40px;
   }
+  #player #player-col-1 #player-heart-icon {
+    margin-left: 10px;
+  }
   #player #player-col-1 #player-track-title {
     margin-bottom: 2px;
     font-size: 0.8rem;
@@ -311,9 +314,6 @@ footer a p {
   }
   #player #player-col-1 div {
     margin-left: 7.5px;
-  }
-  #player #player-col-1 #player-heart-icon {
-    margin-left: 10px;
   }
   #player #player-col-2 #shuffle-btn {
     display: none;
